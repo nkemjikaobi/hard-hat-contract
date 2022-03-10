@@ -7,7 +7,7 @@ To view tests, visit the test directory
 To run test, ```
 npx hardhat test```
 
-Contract address => ``` 0x94CdC078414d6deCdBe00b4855F919a1d7E89492 ```
+Contract address => ``` 0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659 ```
 
 To view transactions visit 
-[https://rinkeby.etherscan.io/address/0x94CdC078414d6deCdBe00b4855F919a1d7E89492](https://rinkeby.etherscan.io/address/0x94CdC078414d6deCdBe00b4855F919a1d7E89492)
+[https://rinkeby.etherscan.io/address/0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659](https://rinkeby.etherscan.io/address/0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659)
